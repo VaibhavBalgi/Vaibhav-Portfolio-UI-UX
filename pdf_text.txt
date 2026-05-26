@@ -1,0 +1,31 @@
+E-Commerce UX Audit Report – Flipkart 
+ Introduction 
+This report analyses the user experience of Flipkart to identify usability issues affecting 
+conversion rates. The focus is on the product page and checkout flow. 
+ Objective 
+• Identify UX issues  
+• Evaluate product page clarity  
+• Analyse checkout flow  
+• Improve user experience  
+ Issues Observed 
+1. Product Page Issues 
+• Excessive information causing clutter  
+• Weak visibility of “Buy Now” button  
+• Important details not highlighted properly  
+• Poor content organization 
+2. Checkout Issues 
+• Login required at early stage  
+• Multiple steps in checkout  
+• Long address form  
+• No progress indicator 
+3. Key UX Problems 
+• High cognitive load  
+• Poor visual hierarchy  
+• User friction in checkout  
+• Lack of clear guidance 
+ Conclusion 
+The current UX design introduces friction and reduces efficiency. Improving clarity, 
+simplifying layout, and optimizing checkout flow can significantly enhance user experience 
+and increase conversions. 
+ 
+
